@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Technical Skills: R, Python (Basic), SQL (Basic)
+### Technical Skills: R, SQL, Python (Basic)
 
 ### Education
 **Pennsylvania State University - State College, PA**<br />
