@@ -1,9 +1,11 @@
 # Data Scientist
 
+### Technical Skills: R, Python (Basic), SQL (Basic)
+
 ### Education
-**Pennsylvania State University - State College, PA**
-- *Eberly College of Science*
-- *Master of Applied Statistics (2024 - 2026)*
+**Pennsylvania State University - State College, PA**<br />
+*Eberly College of Science*<br />
+*Master of Applied Statistics (2024 - 2026)*
 
 **Pennsylvania State University - State College, PA**
 - *Smeal College of Business*
