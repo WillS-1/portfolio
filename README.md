@@ -23,5 +23,5 @@
 ### Projects:
 1. *Third Time Through Lineup Study*<br />
 
-   **Overview:**In baseball there have been numerous instances where a pitcher exhibits exceptional performance through the initial five innings. Then seemingly nowhere, the manager decides to remove that pitcher out from the game, right as the leadoff man was due up to face the starter for the third time. This analysis looks to explore this phenomenon and evaluate whether or not there is enough empirical evidence to support the theory: That when a pitcher faces a batter for the third time, his performance is prone to decline.
+   **Overview:** In baseball there have been numerous instances where a pitcher exhibits exceptional performance through the initial five innings. Then seemingly nowhere, the manager decides to remove that pitcher out from the game, right as the leadoff man was due up to face the starter for the third time. This analysis looks to explore this phenomenon and evaluate whether or not there is enough empirical evidence to support the theory: That when a pitcher faces a batter for the third time, his performance is prone to decline.
    
