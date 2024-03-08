@@ -4,7 +4,7 @@
 BS in Accounting, Masters of Applied Statistics
 
 ### Work Experience
-**Manager, Data Scientist @ BaseballCloud, Magnus (_May 2020 - Present_)**
+**Manager, Data Scientist at BaseballCloud, Magnus (_May 2020 - Present_)**
 - Developed and designed the AnalyzR report generation software, for automated-custom reporting, significantly reduce manual workload and improving efficiency.
 - Utilized programming lanugages such as R and Python to build data-driven tools and reports, with the help of widespread data visualization packages.
 - Integrated data sources and API feeds to automate data collection.
