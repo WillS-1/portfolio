@@ -2,12 +2,12 @@
 
 ### Education
 **Pennsylvania State University - State College, PA**
-*Eberly College of Science*
-*Master of Applied Statistics (_2024 - _2026)*
+- *Eberly College of Science*
+- *Master of Applied Statistics (2024 - 2026)*
 
 **Pennsylvania State University - State College, PA**
-*Smeal College of Business*
-*Bachelor of Science in Accounting (_2016 - _2020)*
+- *Smeal College of Business*
+- *Bachelor of Science in Accounting (2016 - 2020)*
 
 ### Work Experience
 **Manager, Data Scientist at BaseballCloud, Magnus (_May 2020 - Present_)**
